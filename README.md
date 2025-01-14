@@ -6,9 +6,13 @@ scikit-learn  1.3.0
 smote-variants  0.7.3
 seaborn   0.12.2
 Python 3.11.5 
+
+
 Data:
 DrugDiseaseMatrix.txt
 DrugProteinMatrix.txt
 DiseaseProteinMatrix
+
+
 Code:
 BI_DD_HNSO_Bdata.py
